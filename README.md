@@ -2,7 +2,7 @@
 
 **AI Researcher | Distributed Training Expert | AI Infrastructure Developer**
 
-Welcome to my GitHub profile! I'm deeply involved in advancing AI research and building robust AI infrastructure at scale.
+Welcome to my GitHub profile! I'm deeply involved in advancing AI research, AI alignment, and building robust AI infrastructure at scale.
 
 ## 🚀 About Me
 
@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm deeply involved in advancing AI research and b
   - Creating vector databases and hybrid search solutions.
   - Building taxonomy tools and other key components for AI deployment.
 
+- **AI Alignment**: Actively involved in ensuring that AI systems are aligned with ethical standards and human values, contributing to safer and more reliable AI technologies.
+
 - **Agent Creation**: I'm actively working on creating agents that can automate tasks for interesting and complex use cases, pushing the limits of AI automation.
 
 - **Expertise**:
@@ -26,6 +28,7 @@ Welcome to my GitHub profile! I'm deeply involved in advancing AI research and b
 
 - **Visa AI Infrastructure**: Leading the development of tools and systems to ensure seamless AI adoption across the company.
 - **AI Research**: Continuously pushing the boundaries of AI by exploring new methods and publishing in reputed journals.
+- **AI Alignment**: Focusing on aligning AI with ethical standards to ensure safe and reliable AI systems.
 - **Agent Creation**: Developing agents for task automation in various innovative use cases.
 
 ## 🌱 Interests
@@ -34,8 +37,10 @@ Welcome to my GitHub profile! I'm deeply involved in advancing AI research and b
 - **High-Performance Computing**: Leveraging HPC to scale AI solutions efficiently.
 - **Data Privacy**: Innovating in PII redaction and secure data handling in AI systems.
 - **Legal AI**: Exploring the intersection of AI and legal systems, especially in government-funded projects.
+- **AI Alignment**: Ensuring that AI development aligns with ethical principles and human values.
 
 ## 📫 Let's Connect
 
 - **LinkedIn**: (https://www.linkedin.com/in/prasanna-p-b6543521a/)
+
 
